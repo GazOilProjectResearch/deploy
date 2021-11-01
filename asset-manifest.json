@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/GOPR_deploy/static/js/main.5ac117fa.chunk.js",
-    "main.js.map": "/GOPR_deploy/static/js/main.5ac117fa.chunk.js.map",
-    "runtime-main.js": "/GOPR_deploy/static/js/runtime-main.9849ebbd.js",
-    "runtime-main.js.map": "/GOPR_deploy/static/js/runtime-main.9849ebbd.js.map",
-    "static/js/2.2da1738f.chunk.js": "/GOPR_deploy/static/js/2.2da1738f.chunk.js",
-    "static/js/2.2da1738f.chunk.js.map": "/GOPR_deploy/static/js/2.2da1738f.chunk.js.map",
-    "index.html": "/GOPR_deploy/index.html",
-    "static/js/2.2da1738f.chunk.js.LICENSE.txt": "/GOPR_deploy/static/js/2.2da1738f.chunk.js.LICENSE.txt",
-    "static/media/arrow_circle.4ffd3871.svg": "/GOPR_deploy/static/media/arrow_circle.4ffd3871.svg",
-    "static/media/chevron.82092495.svg": "/GOPR_deploy/static/media/chevron.82092495.svg",
-    "static/media/extend.320ed5c2.svg": "/GOPR_deploy/static/media/extend.320ed5c2.svg",
-    "static/media/minus.5476a182.svg": "/GOPR_deploy/static/media/minus.5476a182.svg",
-    "static/media/plus.79da9bcc.svg": "/GOPR_deploy/static/media/plus.79da9bcc.svg"
+    "main.js": "/deploy/static/js/main.5ac117fa.chunk.js",
+    "main.js.map": "/deploy/static/js/main.5ac117fa.chunk.js.map",
+    "runtime-main.js": "/deploy/static/js/runtime-main.99b88960.js",
+    "runtime-main.js.map": "/deploy/static/js/runtime-main.99b88960.js.map",
+    "static/js/2.97b71676.chunk.js": "/deploy/static/js/2.97b71676.chunk.js",
+    "static/js/2.97b71676.chunk.js.map": "/deploy/static/js/2.97b71676.chunk.js.map",
+    "index.html": "/deploy/index.html",
+    "static/js/2.97b71676.chunk.js.LICENSE.txt": "/deploy/static/js/2.97b71676.chunk.js.LICENSE.txt",
+    "static/media/arrow_circle.4ffd3871.svg": "/deploy/static/media/arrow_circle.4ffd3871.svg",
+    "static/media/chevron.82092495.svg": "/deploy/static/media/chevron.82092495.svg",
+    "static/media/extend.320ed5c2.svg": "/deploy/static/media/extend.320ed5c2.svg",
+    "static/media/minus.5476a182.svg": "/deploy/static/media/minus.5476a182.svg",
+    "static/media/plus.79da9bcc.svg": "/deploy/static/media/plus.79da9bcc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9849ebbd.js",
-    "static/js/2.2da1738f.chunk.js",
+    "static/js/runtime-main.99b88960.js",
+    "static/js/2.97b71676.chunk.js",
     "static/js/main.5ac117fa.chunk.js"
   ]
 }
