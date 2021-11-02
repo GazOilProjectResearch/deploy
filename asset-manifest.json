@@ -1,11 +1,8 @@
 {
   "files": {
     "main.js": "/deploy/static/js/main.88956864.chunk.js",
-    "main.js.map": "/deploy/static/js/main.88956864.chunk.js.map",
     "runtime-main.js": "/deploy/static/js/runtime-main.99b88960.js",
-    "runtime-main.js.map": "/deploy/static/js/runtime-main.99b88960.js.map",
     "static/js/2.97b71676.chunk.js": "/deploy/static/js/2.97b71676.chunk.js",
-    "static/js/2.97b71676.chunk.js.map": "/deploy/static/js/2.97b71676.chunk.js.map",
     "index.html": "/deploy/index.html",
     "static/js/2.97b71676.chunk.js.LICENSE.txt": "/deploy/static/js/2.97b71676.chunk.js.LICENSE.txt",
     "static/media/arrow_circle.4ffd3871.svg": "/deploy/static/media/arrow_circle.4ffd3871.svg",
